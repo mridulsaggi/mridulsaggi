@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mridul Saggi</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on Doubtless
 
-- 🌱 I’m currently learning **javascript and reactjs**
 
-- 👯 I’m looking to collaborate on **frontend development and c++**
+- 🌱 I’m currently learning **threejs**
+
+- 👯 I’m looking to collaborate on **web development and c++**
 
 - 📫 How to reach me **mridulsaggi@gmail.com**
 
